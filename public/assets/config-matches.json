@@ -3,24 +3,6 @@
   "logo": "logo.png",
   "pages": [
     {
-      "name": "Setup",
-      "widgets": [
-        {
-          "name": "Scouter Name",
-          "type": "text",
-          "validation": {
-            "comparison": "greater",
-            "value": 0
-          }
-        },
-        {
-          "name": "Starting Position",
-          "type": "positions",
-          "file": "field.png"
-        }
-      ]
-    },
-    {
       "name": "Autonomous",
       "widgets": [
         {
